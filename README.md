@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dominic</h1>
-<h3 align="center">A passionate developer from Germany, I live in the U.S. BTW</h3>
+<h1 align="center">Привет 👋, я Доминик.</h1>
+<h3 align="center">Увлеченный разработчик из России, сейчас живу в США.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudeez&label=Profile%20views&color=0e75b6&style=flat" alt="cloudeez" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **C# Web Hosting Server**
+- 🔭 В настоящее время я работаю над **C# Web Hosting Server**
 
-- 🌱 I’m currently learning **Nodejs, Python, Ruby**
+- 🌱 В настоящее время я учусьg **Nodejs, Python, Ruby**
 
-- 👯 I’m looking to collaborate on **All C# Projects**
+- 👯 Я хочу сотрудничать с **All C# Projects**
 
-- 🤝 I’m looking for help with **C# & Java Projects**
+- 🤝 Я могу помочь с **C# & Java Projects**
 
-- 💬 Ask me about **C# & Java**
+- 💬 Спросите меня о **C# & Java**
 
-- 📫 How to reach me **dominic@cyberfear.com**
+- 📫 Как со мной связаться **dominic@cyberfear.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
